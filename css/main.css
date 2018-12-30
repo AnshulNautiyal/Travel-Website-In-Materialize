@@ -1,0 +1,36 @@
+body{
+    font-family: 'ABeeZee', cursive;
+}
+
+.custom_icon{
+    margin-left: 20px;
+    font-size: 35px !important;
+    
+}
+
+.custom_menu  a{
+    font-size: 20px !important;
+}
+
+.custom_site_name{
+    font-family: 'Pacifico', cursive;
+}
+
+.slider .btn {
+    margin-top: 20px;
+}
+
+.custom_search_input{
+    width: 90% !important;
+    padding: 0 10px !important;
+    border-radius: 4px !important;
+    
+}
+.custom-search-section{
+    text-align: center;
+}
+
+.custom-follow .fa-4x{
+
+    margin: 10px 20px;
+}
